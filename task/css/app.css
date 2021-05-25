@@ -1,0 +1,340 @@
+body{
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+  .rectangle {
+    background-color: #FFFFFF;
+    box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+    width: 339px;
+    height: 492px;
+    margin-top: 22px;
+    margin-left: 108px;
+  }
+
+  .input {
+    border: 0.87px solid #D0D0D0;
+    width: 278px;
+    height: 42px;
+    margin-left: 27px;
+  }
+
+  ::placeholder {
+    color: #213559;
+    font-family: StagSans;
+    font-size: 12.22px;
+    width: 91px;
+    text-align: left
+  }
+
+  .rectangle-copy-3 {
+    border: 0.87px solid #D0D0D0;
+    width: 278px;
+    height: 72px;
+    margin-left: 27px;
+  }
+
+  .enquire-now {
+    color: #263a5d;
+    font-family:StagSans-Medium;
+    font-size: 20.08px;
+    line-height: 24px;
+    width: 127px;
+    text-align: left;
+    margin-left: 29px;
+  }
+
+  .rectangle-copy-2 {
+    background-color: #FFFFFF;
+    border: 0.87px solid #D0D0D0;
+    width: 278px;
+    height: 77px;
+    margin-left: 27px;
+  }
+
+  .rectangle-copy-4 {
+    background-color: #DD5A6A;
+    width: 111px;
+    height: 44px;
+    margin-top: 34px;
+    margin-left: 27px;
+  }
+
+  .checkbox{
+    background-color: #FFFFFF;
+    border: 0.87px solid #979797;
+    border-radius: 0.87px;
+    width: 18px;
+    height: 18px;
+    margin-top: 26px;
+margin-left: 13px;
+  }
+  .im-not-a-robot {
+    color: #969696;
+    font-family: StagSans;
+    font-size: 12.22px;
+    line-height: 15px;
+    width: 92px;
+    text-align: left;
+    
+  }
+  .bitmap {
+    margin-left: 74px;
+    width: 50px;
+    height: 50px;
+  }
+
+  .aster-logo-white {
+    
+    width: 239px;
+    height: 239px;
+    margin-top: 4rem;
+    margin-left: 10rem;
+  }
+
+  .adult-paediatric-b {
+    color: #FFFFFF;
+    font-family: Titillium;
+    font-size: 23px;
+    letter-spacing: 1.28px;
+    line-height: 40px;
+    width: 622px;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .text{
+    height:164px;width:196px;
+    margin-left: 145px;
+    margin-top: -76px;
+  }
+  .text2{
+    height:164px;width:283px;
+    margin-left: 147px;
+    margin-top: -76px;
+  }
+
+  .haematology-oncolo {
+    color: #FFFFFF;
+    font-family: StagSans-Light;
+    font-size: 25px;
+    letter-spacing: 3.59px;
+    line-height: 34px;
+    width: 599px;
+    text-align: left;
+  }
+
+  .button {
+    background-color: #DD5A6A;
+    border-radius: 3.2px;
+    width: 186px;
+    height: 45px;
+  }
+
+  .doctors {
+    color: #22B78E;
+    font-family: StagSans;
+    font-size: 31px;
+    letter-spacing: 1.28px;
+    line-height: 44px;
+    text-align: left;
+    margin-top: 51px;
+    margin-left: 146px;
+
+  }
+
+  .dr-vijay-agarwal-copy {
+    color: #1D5AA6;
+    font-family: StagSans;
+    font-size: 22px;
+    letter-spacing: 1.76px;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .rectangleDoctor{
+    background-color: #F9F9FF !important;
+    border-radius: 4px;
+    width: 539px;
+    height: 1064px;
+    margin-left: 148px;
+  }
+  
+
+  .bitmap2 {
+    width: 255px;
+    height: 161px;
+    margin-left: 130px;
+    
+  }
+
+  .pediatric-bmt {
+    color: #22B78E;
+    font-family: StagSans;
+    font-size: 24px;
+    letter-spacing: 0.99px;
+    line-height: 44px;
+    text-align: left;
+    margin-left: 174px;
+  }
+
+  .md-mrcp-ph-d-cct-le-copy {
+    color: #1D5AA6;
+    font-family: StagSans;
+    font-size: 15px;
+    letter-spacing: 1.2px;
+    line-height: 3px;
+    text-align: center;
+  }
+
+  .line-5-copy {
+    border: 1px solid #22B78E;
+    width: 37px;
+    height: 1px;
+  }
+
+  
+  .dr-vijay-agarwal-is-copy-2 {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 15px;
+    line-height: 20px;
+    width: 423px;
+    text-align: center;
+    margin-left: 30px;
+  
+  }
+
+  .button1 {
+    background-image: radial-gradient(#17EAD9 0%, #6078EA 100%);
+    border-radius: 4px;
+    width: 129px;
+    height: 49px;
+    color:#fff;
+    margin-left: 174px;
+    margin-top: 27px;
+  }
+
+  .the-warning-signs-of {
+    color: #22B78E;
+    font-family: StagSans;
+    font-size: 31px;
+    letter-spacing: 1.28px;
+    line-height: 44px;
+    text-align: left;
+    margin-left: 9rem;
+  }
+
+  .group2 {
+      border: 1.12px solid #21B78E;
+      width: 15px;
+      height: 19px;
+    }
+    .pos{
+      margin-right: -5rem !important;
+      margin-left: auto !important;
+    }
+
+    .icon{
+      width: 30px;
+      height: 41px;
+      margin-top: 10px;
+      margin-left: 23px
+    }
+
+    .card1{
+      background-color: #FFFFFF;
+      border: 1px solid #E5EAFF;
+      border-radius: 4px;
+      box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+      width: 255px;
+      height: 170px;
+    }
+
+    .failure-to-thrive {
+      color: #000000;
+      font-family: StagSans;
+      font-size: 14px;
+      line-height: 21px;
+      width: 198px;
+      text-align: left;
+    }
+  
+    .what-are-the-conditi {
+      color: #1D5AA6;
+      font-family: StagSans;
+      font-size: 20px;
+      letter-spacing: 1.6px;
+      line-height: 22px;
+      width: 797px;
+      text-align: left;
+      margin-left: 99px;
+    }
+
+    .bmt-is-the-treatment {
+      color: #000000;
+      font-family: StagSans;
+      font-size: 14px;
+      line-height: 30px;
+      width: 1052px;
+      text-align: left;
+      margin-left: 102px;
+      display: none;
+    
+    }
+
+    .footer {
+      background-color: #272727;
+      width: 1440px;
+      height: 256px;
+    }
+    
+    .path {
+      background-color: #3A559F;
+      width: 25px;
+      height: 25px;
+      margin-top: 123px;
+      margin-left:   594px;
+    }
+
+    .path2 {
+      background-color: #3A559F;
+      width: 25px;
+      height: 25px;
+      margin-top: 123px;
+    }
+    
+    .path3 {
+      background-color: #3A559F;
+      width: 25px;
+      height: 25px;
+      margin-top: 123px;
+    }
+    .path4 {
+      background-color: #3A559F;
+      width: 25px;
+      height: 25px;
+      margin-top: 123px;
+    }
+
+    .aster-cmi-all-right {
+      color: #FFFFFF;
+      font-family: StagSans;
+      font-size: 14px;
+      letter-spacing: 1.12px;
+      line-height: 17px;
+      text-align: left;
+      margin-top: 24px;
+      margin-left: 534px;
+    }
+
+    .button2 {
+      background-color: #004498;
+      border-radius: 3.81px;
+      width: 221px;
+      height: 54px;
+      color:#fff;
+      margin-left: 539px;
+    }
+
+    
